@@ -1,22 +1,25 @@
 # E-Commerce-Customer-Satisfaction-Score-Prediction-DL-Model
 
-![image](https://github.com/VargheseTito/E-Commerce-Customer-Satisfaction-Score-Prediction-DL-Model/assets/110298267/e71b7160-24b3-4c2c-a59b-12b7bceed09b)
+  ![image](https://github.com/VargheseTito/E-Commerce-Customer-Satisfaction-Score-Prediction-DL-Model/assets/110298267/e71b7160-24b3-4c2c-a59b-12b7bceed09b)
 
 
 E-Commerce Customer Satisfaction Score Prediction Deep Learning Model
 
 
-#Project Summary
+Project Summary
 
-#Overview
+Overview
 
 This project focuses on predicting Customer Satisfaction (CSAT) scores using Deep Learning Artificial Neural Networks (ANN). In the context of e-commerce, understanding customer satisfaction through their interactions and feedback is crucial for enhancing service quality, customer retention, and overall business growth. By leveraging advanced neural network models, we aim to accurately forecast CSAT scores based on a myriad of interaction-related features, providing actionable insights for service improvement.
 
-#Project Background
+Project Background
+
 Customer satisfaction in the e-commerce sector is a pivotal metric that influences loyalty, repeat business, and word-of-mouth marketing. Traditionally, companies have relied on direct surveys to gauge customer satisfaction, which can be time-consuming and may not always capture the full spectrum of customer experiences. With the advent of deep learning, it's now possible to predict customer satisfaction scores in real-time, offering a granular view of service performance and identifying areas for immediate improvement.
 
-#Dataset Overview
+Dataset Overview
+
 The dataset encompasses customer satisfaction scores over a one-month period on an e-commerce platform named "Shopzilla." It consists of the following features:
+
 Unique id: Unique identifier for each record (integer).
 Channel name: Name of the customer service channel (object/string).
 Category: Category of the interaction (object/string).
@@ -38,10 +41,12 @@ Tenure Bucket: Bucket categorizing agent tenure (object/string).
 Agent Shift: Shift timing of the agent (object/string).
 CSAT Score: Customer Satisfaction (CSAT) score (integer).
 
-#Project Goal
+Project Goal
+
 The primary goal of this project is to develop a deep learning model that can accurately predict the CSAT scores based on customer interactions and feedback. By doing so, we aim to provide e-commerce businesses with a powerful tool to monitor and enhance customer satisfaction in real-time, thereby improving service quality and fostering customer loyalty.
 
-#Conclusion
+Conclusion
+
 Data Overview: The dataset comprises records from the e-commerce industry, focusing on customer service interactions and CSAT scores. It contains 85907 rows and 20 columns, with missing values in several columns such as Customer_city, Product_category, and item_price.
 
 CSAT Importance: CSAT is a crucial KPI for e-commerce businesses, reflecting customer satisfaction with products, services, and overall experience. Understanding CSAT is vital for driving business success.
